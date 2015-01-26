@@ -1,4 +1,4 @@
-name := "scala-cheat-sheet"
+name := "scala-samples"
 
 version := "1.0"
 
