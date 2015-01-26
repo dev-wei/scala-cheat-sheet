@@ -1,3 +1,4 @@
+package variances
 class Stack[+A] {
   def push[B >: A](elem: B): Stack[B] = new Stack[B] {
     override def top: B = elem
